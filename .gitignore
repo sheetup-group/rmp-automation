@@ -1,0 +1,11 @@
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+results/
+*.log
+*.txt
+test_images/
+downloads/
+.DS_Store
